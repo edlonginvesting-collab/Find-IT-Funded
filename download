@@ -1,0 +1,12 @@
+# Operating system junk
+.DS_Store
+Thumbs.db
+
+# Local/private files
+.env
+.env.local
+
+# Do not upload old app dependencies/builds
+node_modules/
+dist/
+.git/
